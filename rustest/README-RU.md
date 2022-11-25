@@ -2,7 +2,7 @@
 
 Из коробки русские буквы в консоли поддерживаются через жопу:
 
-![01](/screens/01-not_support.png)
+![01](/rustest/screens/01-not_support.png)
 
 Это потому что Lazarus по умолчанию создает файл в UTF8, а консоль Windows 7 поддерживает CP 866 (кодировку DOS/OEM), достаточно перекодировать файл:
 
@@ -10,16 +10,16 @@
 
 2. Выбираем Параметры файла --> Кодировка
 
-![02](/screens/02-Change_encoding.png)
+![02](/rustest/screens/02-Change_encoding.png)
 
 3. В выпадающем списке выбираем CP866:
 
-![03](/screens/03-Change_encoding.png)
+![03](/rustest/screens/03-Change_encoding.png)
 
 4. В появившемся окне нажимаем кнопку Изменить файл:
 
-![04](/screens/04-Change_encoding.png)
+![04](/rustest/screens/04-Change_encoding.png)
 
 5. ФАНФАРЫ!
 
-![05](/screens/05-OK.png)
+![05](/rustest/screens/05-OK.png)
