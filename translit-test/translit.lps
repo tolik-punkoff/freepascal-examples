@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="translit.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="26" Y="4"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Microwin\lazarus\fpc\3.2.2\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1559"/>
+        <CursorPos Y="1568"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="49" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="50" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="51" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="52" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="53" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="54" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="55" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="57" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="58" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="59" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="60" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="59" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="60" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="59" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="60" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="59" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="60" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="59" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="60" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="61" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="67" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="18" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="19" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="68" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="73" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="translit.lpr"/>
+        <Caret Line="74" TopLine="59"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
