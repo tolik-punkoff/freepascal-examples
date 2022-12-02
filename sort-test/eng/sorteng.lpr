@@ -23,7 +23,7 @@ begin
     Result := 1;
     Exit;
   end;
-  if List[Index1]=List[Index2]
+  if Length(List[Index1])=Length(List[Index2])
     then Result := 0
     else Result := -1;
 end;
@@ -35,7 +35,7 @@ begin
     Result := 1;
     Exit;
   end;
-  if List[Index1]=List[Index2]
+  if Length(List[Index1])=Length(List[Index2])
     then Result := 0
     else Result := -1;
 end;
