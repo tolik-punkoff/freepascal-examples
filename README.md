@@ -12,3 +12,5 @@ rustest - print russian letters in Windows console
 smallfinder - simple finder for files (Windows/DOS DIR command small analoque)
 
 translit-test - Translit test, recoding russian letter string in latin letter string
+
+randstrings - generate random strings from pattern example

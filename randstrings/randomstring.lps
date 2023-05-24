@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="randomstring.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="40" Y="12"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="10" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="2" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="8" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="9"/>
+      </Position>
+      <Position>
+        <Filename Value="randomstring.lpr"/>
+        <Caret Line="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
